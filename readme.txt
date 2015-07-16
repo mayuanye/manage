@@ -3,3 +3,4 @@ git is free software
 add software
 software
 soft
+stage
